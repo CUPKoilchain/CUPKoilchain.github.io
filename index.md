@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## ijijijoi
 
 You can use the [editor on GitHub](https://github.com/CUPKoilchain/CUPKoilchain.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
