@@ -1,6 +1,3 @@
-## ijijijoi
-
-You can use the [editor on GitHub](https://github.com/CUPKoilchain/CUPKoilchain.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
    <h1>石油区块链引领未来</h1>
    <p>hello! welcome to wbs web!</p>
