@@ -21,7 +21,11 @@
        <div class="fakeimg" style="height:200px;"><img src="/02.jpg" width="200" height="200" /></div>
        <p>关于我的介绍..</p>
        <h3>更多内容</h3>
+<<<<<<< HEAD
        <p><img src="/01.jpeg" width="100" height="100" /></p>
+=======
+       <p><img src="/01.jpeg" width="128" height="128" /></p>
+>>>>>>> 7888d5bd60f15e5ea0e2d41f25837011b12445b3
        <div class="fakeimg" style="height:60px;">这边插入图像</div><br>
        <div class="fakeimg" style="height:60px;">这边插入图像</div><br>
        <div class="fakeimg" style="height:60px;">这边插入图像</div>
