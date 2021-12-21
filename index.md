@@ -1,6 +1,6 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
    <h1>石油区块链引领未来</h1>
-   <p>hello! welcome to wbs web!</p>
+   <p>hello! welcome to the web of wbs</p>
  </div>
 
 
@@ -21,7 +21,7 @@
        <div class="fakeimg" style="height:200px;">这边插入图像</div>
        <p>关于我的介绍..</p>
        <h3>更多内容</h3>
-       <p>我的更多内容</p>
+       <p><img src="/01.jpeg" width="128" height="128" /></p>
        <div class="fakeimg" style="height:60px;">这边插入图像</div><br>
        <div class="fakeimg" style="height:60px;">这边插入图像</div><br>
        <div class="fakeimg" style="height:60px;">这边插入图像</div>
