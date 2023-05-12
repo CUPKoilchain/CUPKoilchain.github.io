@@ -1,12 +1,17 @@
 <html>
 <head>
 <link href="karamay.css" rel="stylesheet" type="text/css" />
-	
+	<meta charset="UTF-8">
+	<title>牛肉丸是头猪</title>
 </head>
+	
 <body bgcolor="#EBD2B4">
-	<div class="modelone">
-		<h1 align="center" style="font-size:70px;letter-spacing: 50px;color:rgba(47,176,90,1.00);" >克拉玛依历史</h1>
-	</div>
+		<div id=Title2 style="color: black; font: bold 50px arial; position: absolute; visibility:hidden; top:40px; left:500px;">
+<h1 style="letter-spacing: 40px;">克拉玛依历史</h1></div>
+<div id=Title1 style="color: green; font: bold 50px arial; position: absolute; visibility:hidden; top:40px; left:500px">
+<h1 style="letter-spacing: 40px;">克拉玛依历史</h1></div>
+	<br>
+	<br><br><br><br><br><br><br><br>
 <div id="modelfour">
 			<ul class="modelfive">
 				<li class="modelsix"><a href="#"><img src="images/01.jpg"/></a></li>
@@ -179,9 +184,19 @@
 			modeleights[curIndex].classList.add("modelnine")
 			modelfive[curIndex].classList.add("modelsix")
 			}
-			
-		</script>
-
-</body>
-</html>
-
+			var Tle2="document.all.Title2.style";
+var Tle1="document.all.Title1.style";
+function Fade(){   
+	var BackX = Math.random()*10;
+	var BackY = Math.random()*5;   
+	if(Math.random()<0.5){   
+		BackX = -BackX;   
+		BackY = -BackY;   
+	}   
+	eval(Tle1).visibility = eval(Tle2).visibility = "visible";   
+	eval(Tle2).left = parseInt(eval(Tle1).left) + BackX;   
+	eval(Tle2).top = parseInt(eval(Tle1).top)  + BackY;   
+	var FadeID = setTimeout("Fade()",900);   
+}
+Fade();
+	</script>
