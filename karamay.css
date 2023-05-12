@@ -3,12 +3,7 @@
 	padding: 0;
 	
 }
-#Title2{
-	
-}
-#Title1{
-	
-}
+
 .modelone{
 	position: relative;
 	width: 100%;
@@ -241,23 +236,24 @@
 	left:55%;
 	width: 40%;
 }
-#fix1{
+.fix1{
 	text-align: center;
 	font-size: 39px;
+	color:blue;
 }
-#fix2{
+.fix2{
 	font-size: 27px;
 	color: blue;
 }
-#fix3{
+.fix3{
 	font-size: 32px;
 	color:blue;
 }
-#fix4{
+.fix4{
 	font-size:23px;
 	color:blue;
 }
-#fix5{
+.fix5{
 	font-size:28px;
 	color:blue;
 }
