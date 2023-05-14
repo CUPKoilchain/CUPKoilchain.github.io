@@ -265,39 +265,39 @@
 	
 }
 
-/*图前面的小点和箭头去掉*/
+
 #modelfour ul{
 	list-style: none;
 }
 
-/*将图片都叠加到一块(布局)*/
+
 #modelfour .modelfive li{
-	position: absolute;/*所有图片居中集合*/
+	position: absolute;
 	display: none;
 }
-/*当前活动图的展示*/
+
 #modelfour .modelfive li.modelsix{
 	display: block;
 }
 
-/*左右按钮的布局*/
+
 #modelfour .modelseven li{
 	position: absolute;
-	top: 50%;/*垂直布局*/
-	margin-top: -40px;/*相对居中*/
+	top: 50%;
+	margin-top: -40px;
 	width:40px ;
 	height: 80px;
-	background-color: white;/*背景色*/
-	opacity: 0.5;/*透明度*/
+	background-color: white;
+	opacity: 0.5;
 	
-	line-height: 80px;/*小箭头垂直居中，行高设置与按钮同高就可以*/
+	line-height: 80px;
 	
 }
 #modelfour .modelseven li:last-child{
 	right: 0;
 }
 
-/*轮播按钮的布局设计*/
+
 #modelfour .modeleight{
 	position: absolute;
 	bottom: 10px;
