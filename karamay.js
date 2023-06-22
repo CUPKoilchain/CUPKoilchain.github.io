@@ -48,8 +48,10 @@ window.onload=function(){
 			modeleights[curIndex].classList.add("modelnine")
 			modelfive[curIndex].classList.add("modelsix")
 			}
+			
 			var Tle2="document.all.a26.style";
 var Tle1="document.all.a25.style";
+	
 function Fade(){   
 	var BackX = Math.random()*10;
 	var BackY = Math.random()*5;   
@@ -60,7 +62,7 @@ function Fade(){
 	eval(Tle1).visibility = eval(Tle2).visibility = "visible";   
 	eval(Tle2).left = parseInt(eval(Tle1).left) + BackX;   
 	eval(Tle2).top = parseInt(eval(Tle1).top)  + BackY;   
-	var FadeID = setTimeout("Fade()",900);   
+	var FadeID = setTimeout("Fade()",100);   
 }
 Fade();
 }
