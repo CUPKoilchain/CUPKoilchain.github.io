@@ -1,0 +1,42 @@
+.b01{
+	position: absolute;
+	width:1300px;
+	height: 100px;
+	border-style: solid;
+	border-color: black;
+	left:50px;
+	top:0;
+	
+}
+.b02{
+	position: absolute;
+	width:1300px;
+	height: 500px;
+	border-style: solid;
+	border-color: black;
+	top:120px;
+	left:50px;
+	margin: 0 auto;
+}
+.b03{
+	position: relative;
+	border-style: solid;
+	border-color: black;
+	margin: 0 auto;
+	width:1400px;
+	height: 2000px;
+}
+
+.b01 a{
+	text-decoration: none;
+}
+.b01 ul li{
+	list-style-type:none; 
+	display: inline;
+	
+}
+.b01 ul{
+	text-align: center;
+	font-size:30px;
+	
+}
