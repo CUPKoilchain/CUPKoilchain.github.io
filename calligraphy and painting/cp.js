@@ -1,7 +1,9 @@
-var x01=document.getElementsByClassName("calligraphy03");
+var x01;
 function over(x){
-	x.style.zIndex+=10;
+	x01=x.style.zIndex;
+	x.style.zIndex=8;
 }
 function leave(y){
-	y.style.zIndex-=10;
+	y.style.zIndex=x01;
+	/*alert("现在的z-index为"+y.style.zIndex);*/
 }

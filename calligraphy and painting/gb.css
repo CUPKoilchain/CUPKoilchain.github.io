@@ -1,13 +1,13 @@
-.b01{
+.gb01{
 	position: absolute;
 	width:1300px;
 	height: 100px;
 	
 	left:50px;
 	top:0;
-	
+	background: rgba(129,200,240,1.00);
 }
-.b02{
+.gb02{
 	position: absolute;
 	width:1300px;
 	height: 1400px;
@@ -16,7 +16,7 @@
 	left:50px;
 	margin: 0 auto;
 }
-.b03{
+.gb03{
 	position: relative;
 	
 	margin: 0 auto;
@@ -24,21 +24,21 @@
 	height: 2000px;
 }
 
-.b01 a{
+.gb01 a{
 	text-decoration: none;
 }
-.b01 ul li{
+.gb01 ul li{
 	list-style-type:none; 
 	display: inline;
 	
 }
-.b01 ul{
+.gb01 ul{
 	text-align: center;
 	font-size:30px;
 	letter-spacing: 20px;
 	
 }
-.b02 p{
+.gb02 p{
 	font-size: 25px;
 	letter-spacing: 4px;
 }
