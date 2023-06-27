@@ -1,0 +1,44 @@
+.gb01{
+	position: absolute;
+	width:1300px;
+	height: 100px;
+	
+	left:50px;
+	top:0;
+	background: rgba(129,200,240,1.00);
+}
+.gb02{
+	position: absolute;
+	width:1300px;
+	height: 1400px;
+	
+	top:120px;
+	left:50px;
+	margin: 0 auto;
+}
+.gb03{
+	position: relative;
+	
+	margin: 0 auto;
+	width:1400px;
+	height: 2000px;
+}
+
+.gb01 a{
+	text-decoration: none;
+}
+.gb01 ul li{
+	list-style-type:none; 
+	display: inline;
+	
+}
+.gb01 ul{
+	text-align: center;
+	font-size:30px;
+	letter-spacing: 20px;
+	font-weight: bold;
+}
+.gb02 p{
+	font-size: 25px;
+	letter-spacing: 4px;
+}

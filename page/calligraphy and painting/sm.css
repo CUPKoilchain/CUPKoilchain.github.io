@@ -1,0 +1,44 @@
+.sm01{
+	position: absolute;
+	width:1300px;
+	height: 100px;
+	
+	left:50px;
+	top:0;
+	background: rgba(129,200,240,1.00);
+}
+.sm02{
+	position: absolute;
+	width:1300px;
+	height: 1400px;
+	
+	top:120px;
+	left:50px;
+	margin: 0 auto;
+}
+.sm03{
+	position: relative;
+	
+	margin: 0 auto;
+	width:1400px;
+	height: 1300px;
+}
+
+.sm01 a{
+	text-decoration: none;
+}
+.sm01 ul li{
+	list-style-type:none; 
+	display: inline;
+	
+}
+.sm01 ul{
+	text-align: center;
+	font-size:30px;
+	letter-spacing: 20px;
+	font-weight: bold;
+}
+.sm02 p{
+	font-size: 25px;
+	letter-spacing: 4px;
+}
