@@ -5,14 +5,31 @@
 	margin:0;
 	padding:0;
 }
-
+.lead nav{
+	background-color: black;
+	padding: 15px 0;
+}
+.lead nav ul li {
+  list-style: none;
+  display: inline-block;
+  margin-left: 10px;
+	margin-right:50px;
+}
+.lead nav ul li a{
+	text-decoration: none;
+	color:#FFFFFF;
+	font-size:20px;
+}
+.lead nav ul li a:hover{
+	color:red;
+}
 .head{
 	padding-top: 20px;
 	padding-bottom: 20px;
 	width:100%;
 	position: relative;
 	text-align: center;
-	background: url("../material/A1.webp")
+	background-color:beige;
 }
 .choice{
 	position: absolute;
@@ -87,25 +104,13 @@
 	padding-top: 10px;
 	padding-bottom: 10px;
 	position: relative;
+	height: 20px;
 }
 .endcon a{
 	text-decoration: none;
 	color:white;
 	position: absolute;
 	left: 47.5%;
-}
-.endcon ul{
-	margin-top:50px;
-	list-style: none;
-	align-self: center;
-}
-.endcon li{
-	color: white;	
-	display:inline;
-	padding-left:10%;
-	padding-right:10%;
-	border-left: solid 1px;
-	border-right: solid 1px;
 }
 .content{
 	background-color: aliceblue;
@@ -132,4 +137,21 @@
 .content ul li p{
 	margin-right: 15px;
 	margin-left: 15px;
+	background-color: blanchedalmond;
+}
+.content ul li div{
+	width: 200px;
+	float: right;
+	text-align: center;
+	border:solid 1px;
+	margin-right: 15px;
+	margin-left: 15px;
+	background-color: white;
+}
+.content ul li div img{
+	width: 200px;
+}
+.content ul li div p
+{
+	background-color: white;
 }
