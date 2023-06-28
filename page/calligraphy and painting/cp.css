@@ -27,7 +27,7 @@ nav ul li a:hover{
 .calligraphy03{
 	position: absolute;
 	top:250px;
-	border:1px solid black;
+	/*border:1px solid black;*/
 	width: 400px;
 	height: 500px;
 	
@@ -46,7 +46,7 @@ nav ul li a:hover{
 	position: absolute;
 	top:150px;
 	right: 100px;
-	border:1px solid black;
+	/*border:1px solid black;*/
 	width: 800px;
 	height: 800px;
 	transition: all 1s;
@@ -115,7 +115,7 @@ nav ul li a:hover{
 .calligraphy15{
 	position: absolute;
 	top:1050px;
-	border:1px solid black;
+	/*border:1px solid black;*/
 	width: 400px;
 	height: 500px;
 }
@@ -133,7 +133,7 @@ nav ul li a:hover{
 	position: absolute;
 	top:950px;
 	right: 100px;
-	border:1px solid black;
+	/*border:1px solid black;*/
 	width: 800px;
 	height: 600px;
 	transition: all 1s;
