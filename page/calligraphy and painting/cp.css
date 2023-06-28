@@ -67,11 +67,11 @@ nav li:hover a::after {
 }*/
 .calligraphy01{
 	position: relative;
-	width: 1400px;
+	width: 1600px;
 	height: 700px;
-	border: solid;
-	border-width: 5px;
-	border-color: black;
+	border:5px black solid;
+	
+	
 	margin: 0 auto;
 	overflow: hidden;
 }
