@@ -15,7 +15,7 @@ nav ul li a:hover{
 	position: relative;
 	width:1500px;
 	margin: 0 auto;
-	height: 900px;
+	height: 2000px;
 }
 .calligraphy02{
 	position: absolute;
@@ -27,7 +27,7 @@ nav ul li a:hover{
 .calligraphy03{
 	position: absolute;
 	top:250px;
-	/*border:1px solid black;*/
+	border:1px solid black;
 	width: 400px;
 	height: 500px;
 	
@@ -46,9 +46,9 @@ nav ul li a:hover{
 	position: absolute;
 	top:150px;
 	right: 100px;
-	/*border:1px solid black;*/
+	border:1px solid black;
 	width: 800px;
-	height: 700px;
+	height: 800px;
 	transition: all 1s;
 }
 .calligraphy07{
@@ -111,4 +111,33 @@ nav ul li a:hover{
 	top:400px;
 	right:0;
 	
+}
+.calligraphy15{
+	position: absolute;
+	top:1050px;
+	border:1px solid black;
+	width: 400px;
+	height: 500px;
+}
+.calligraphy16{
+	margin: 0 auto;
+	width: 200px;
+	height: 100px;
+}
+.calligraphy17{
+	margin: 0 auto;
+	width: 120px;
+	height: 40px;
+}
+.calligraphy18{
+	position: absolute;
+	top:950px;
+	right: 100px;
+	border:1px solid black;
+	width: 800px;
+	height: 600px;
+	transition: all 1s;
+}
+.calligraphy18 img:hover{
+	transform: scale(1.15);
 }

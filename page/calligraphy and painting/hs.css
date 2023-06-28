@@ -4,7 +4,7 @@
 	height: 100px;
 	
 	left:50px;
-	top:0;
+	top:100px;
 	background: rgba(129,200,240,1.00);
 }
 .hs02{
@@ -12,7 +12,7 @@
 	width:1300px;
 	height: 1400px;
 	
-	top:120px;
+	top:220px;
 	left:50px;
 	margin: 0 auto;
 }
@@ -21,7 +21,7 @@
 	
 	margin: 0 auto;
 	width:1400px;
-	height: 2200px;
+	height: 2300px;
 }
 
 .hs01 a{
@@ -42,4 +42,24 @@
 .hs02 p{
 	font-size: 25px;
 	letter-spacing: 4px;
+}
+.hs04{
+	position: absolute;
+	text-align: center;
+	width:1000px;
+	height: 100px;
+	right:0px;
+}
+nav ul li {
+  list-style: none;
+  display: inline-block;
+  margin-left: 60px;
+}
+nav ul li a {
+  text-decoration: none;
+  color: #fff;
+  font-size: 20px;
+}
+nav ul li a:hover{
+	color :#FF0004;
 }
