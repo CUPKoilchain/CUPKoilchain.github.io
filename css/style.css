@@ -34,7 +34,7 @@ body {
 .wrapper {
     position: relative;
     width: 35rem;
-    height: 50rem;
+    height: 60rem;
 }
 
 @media(min-width:540px){
@@ -144,7 +144,7 @@ form .form-group input:focus~i,form .form-group input:valid~i {
 
 .wrapper .form-container form .link {
     text-align: center;
-    font-size: 1.4rem;
+    font-size: 1.7rem;
     color: var(--labelColor);
     margin: 2.5rem 0;
 }
